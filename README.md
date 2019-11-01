@@ -1,7 +1,7 @@
 # Preprocesamiento de los proyectos EEG-DWT-NeuralNetwork-PSO y HablaImaginada-DeepLearning
---------------------------------------------------
+
 ## Codigo
---------------------------------------------------
+
 ### SubconjuntoDatos.m
 Datos con modalidad=imaginada, estimulo=comandos y sin parpadeo
 
@@ -23,9 +23,9 @@ Comparar la señal filtrada con la submuestreada
 ### DWTEstadistica.m
 Media, desviacion estandar y varianza de delta, theta y alfa con DWT
 
---------------------------------------------------
+
 ## Datos
---------------------------------------------------
+
 datosSujxx = 15 subconjuntos de cada sujeto
 
 EEGFiltradosxx = 15 EEGs filtrados de cada subconjunto

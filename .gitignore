@@ -1,0 +1,10 @@
+datosSuj*.csv
+EEGFiltrados*.csv
+Submuestreo*.csv
+SubmuestreoUnion.csv
+CaracteristicasSuj*.csv
+CaracteristicasHI.csv
+TodoSuj*.csv
+TodoFiltra*.csv
+TodoSubmues*.csv
+RedNeuronal.m
