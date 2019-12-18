@@ -25,23 +25,14 @@ Media, desviacion estandar y varianza de delta, theta y alfa con DWT
 
 
 ## Datos
-
-datosSujxx = 15 subconjuntos de cada sujeto
-
-EEGFiltradosxx = 15 EEGs filtrados de cada subconjunto
-
-Submuestreoxx = 15 submuestreos de cada EEGs filtrados
-
-SubmuestreoUnion = Union de los 15 submuestreos
-
-CaracteristicasSubxx = Caracteristicas de cada sujeto
-
-CaracteristicasHI = Union de los archivos caracteristicas
-
-TodoSujxx = Datos de cada sujeto
-
-TodoFiltraxx = Datos filtrados de cada sujeto
-
-TodoSubmuesxx = Datos con submuestreo de 8 de cada sujeto
+* datosSujxx = 15 subconjuntos de cada sujeto
+* EEGFiltradosxx = 15 EEGs filtrados de cada subconjunto
+* Submuestreoxx = 15 submuestreos de cada EEGs filtrados
+* SubmuestreoUnion = Union de los 15 submuestreos
+* CaracteristicasSubxx = Caracteristicas de cada sujeto
+* CaracteristicasHI = Union de los archivos caracteristicas
+* TodoSujxx = Datos de cada sujeto
+* TodoFiltraxx = Datos filtrados de cada sujeto
+* TodoSubmuesxx = Datos con submuestreo de 8 de cada sujeto
 
 Nota: Los archivos que empiezan con el prefijo todo son sin eliminar parpadeo
