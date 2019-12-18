@@ -36,7 +36,7 @@ SubmuestreoUnion = Union de los 15 submuestreos
 
 CaracteristicasSubxx = Caracteristicas de cada sujeto
 
-CaracteristicasHI = Union de las archivos caracteristicas
+CaracteristicasHI = Union de los archivos caracteristicas
 
 TodoSujxx = Datos de cada sujeto
 
